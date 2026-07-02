@@ -5,7 +5,7 @@ title: Ganex
 
 # Ganex
 
-![Ganex profile photo](assets/profile.jpg){: width="180" }
+![Ganex profile photo] (assets/profile.jpg) {: width="180" }
 
 Hello! I am an AI Architect interested in enterprise AI agents, cloud platforms, automation, and production-grade AI systems.
 
